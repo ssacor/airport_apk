@@ -1,0 +1,8 @@
+# Python dependencies for the Airport Details Finder app
+# Install with:  pip install -r requirements.txt
+#
+# NOTE: Both streamlit and pandas are PRE-INSTALLED on Streamlit Cloud,
+# so the app works even if this file is not picked up during deployment.
+
+streamlit==1.67.0
+pandas==2.2.3
